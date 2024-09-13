@@ -1,0 +1,13 @@
+.jobs-list {
+    padding: 20px;
+  }
+  
+  .loading, .error, .empty {
+    text-align: center;
+    font-size: 1.5em;
+  }
+  
+  .empty {
+    color: grey;
+  }
+  
